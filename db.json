@@ -9,40 +9,5 @@
         "projectStatus": "ReadyToMove",
         "priceRange": "Price on request",
         "sizeRange": "601 - 669 Sq.ft"
-    },
-    {
-        "id": 4503614635638807,
-        "name": "Magarpatta Pancham",
-        "builderName": "Magarpatta City Group",
-        "address": "Nanded City",
-        "city": "Pune",
-        "coverImage": "https://lh3.googleusercontent.com/eMDDu9lB0U2tgVfpvuPVB6W0ggSaWL73n8TAGWK5iKA8tivMpV8bDuYVc-ke8YREeHjxVgYgYZ0YfPI7jYNZep8E8li14kZdiT0woCSC6MXBzqZTjPo",
-        "images": [
-            {
-                "sURL": "https://lh3.googleusercontent.com/PjmR05PmgsPIxH3wwaybvjd7m5fGYtgtnuc-f4i2PX3QBKmHOQ9Py3lXf1Nv9VznkoCVJEHRaiZyi-YfKpkm8aNjuvlcM4XYg4zmJo7UqRjVN3DZCmw"
-            },
-            {
-                "sURL": "https://lh3.googleusercontent.com/6xtq78bJ6pOskZRPhLeJKTveLlmKiZnsRZXHNjXUSgyzxsdponhIzLpYVBUuz7QHT_d36Kpu5hIBlM8Ve_HETZfAhG7XRvPgh6k21XVvu3NUDKfLSQ"
-            },
-            {
-                "sURL": "https://lh3.googleusercontent.com/96kzDqHX1tgX0t1tqyXF0IwtXu5ZFjku7Httb6V716W_YLrAWLUcOS5OOaVUrCMmvgLYyfwZ7rKiRqobszcgttXjaczoIHvkgUNptoAzeR5KGe36"
-            },
-            {
-                "sURL": "https://lh3.googleusercontent.com/p0Xrg7Fs9avhDqvSfM3LV0u77XyVUZCQc4WWOzgRiGEnu9wu4CWEivD6Alhv_8wz6rAmQikAzG38hrpg3eHwAfdDqCmld6OUCEQjosQ0Fd5TNfUh4A"
-            }
-        ],
-        "projectStatus": "ReadyToMove",
-        "priceRange": "41.41 L - 43.27 L",
-        "sizeRange": "580 - 606 Sq.ft"
-    },
-    {
-        "id": 4503624772222976,
-        "name": "AGP Shreesham",
-        "builderName": "AGP Homes",
-        "address": "Madipakkam",
-        "city": "Chennai",
-        "coverImage": "https://lh3.googleusercontent.com/wKbJygiLDokBVt_9Etw62Yd33dUg1oQf0FyiU71Zf9tESLiRig5IdfWX-zUyUcbamhhK5MraQDSHTSMVtOI4hqeS9WAOG9QfYBaw",
-        "priceRange": "Price on request",
-        "sizeRange": "947 Sq.ft"
-    }
+    } 
 ]
